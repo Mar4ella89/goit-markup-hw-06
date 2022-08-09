@@ -590,8 +590,6 @@ body {
   display: flex;
 }
 
-.footer-form-wrapper {
-}
 
 .footer-form-text {
   display: block;
@@ -615,6 +613,8 @@ body {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   border-radius: 4px;
   color: var(--tertiary-color);
+
+  transition: border-color var(--transition-dur-and-func);
 }
 
 .footer-form-mail:focus {
