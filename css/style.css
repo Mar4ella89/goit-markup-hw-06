@@ -582,8 +582,9 @@ body {
   margin-right: 85px;
 }
 
-.footer-right-container {
-  margin-right: 90px;
+
+.footer-form-wrapper {
+  margin-left: auto;
 }
 
 .footer-form {
