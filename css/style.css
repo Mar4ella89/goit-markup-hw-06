@@ -617,6 +617,11 @@ body {
   color: var(--tertiary-color);
 }
 
+.footer-form-mail:focus {
+  border-color: var(--accent-color);
+  outline: none;
+}
+
 .footer-form-mail::placeholder {
   font-size: var(--primary-font-size);
   line-height: 1.25;
