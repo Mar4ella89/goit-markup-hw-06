@@ -871,6 +871,11 @@ body {
   background-color: #188ce8;
 }
 
+.user-policy-link {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
 /* =================== ПОРТФОЛИО =================== */
 
 .project-filter-list {
